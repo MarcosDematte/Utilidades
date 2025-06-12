@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-beanutils-bean-collections-1.8.3.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-logging-api-1.1.3.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-logging-1.1.3.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-beanutils-core-1.8.3.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-logging-adapters-1.1.3.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-digester3-3.2.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/commons-beanutils-1.8.3.jar",
+        "/home/mdematte/Documents/gitcabal/JEE/Utilidades/lib/httpclient-4.0.jar"
+    ]
+}
