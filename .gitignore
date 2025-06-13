@@ -1,5 +1,4 @@
 src/Codigos.java
 src/Codigos.class
-secrets/
-!secrets/.gitindex
- 
+.idea/
+Utilidades.iml
